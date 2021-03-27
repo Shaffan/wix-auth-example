@@ -19,7 +19,7 @@ It uses the Wix Router API module ([docs](https://www.wix.com/velo/reference/wix
 
 Flows and APIs used:
 
-https://docs.github.com/en/developers/apps/authorizing-oauth-apps#web-application-flow
-https://docs.github.com/en/rest/reference/users#list-email-addresses-for-the-authenticated-user
-https://www.wix.com/velo/reference/wix-users-backend/generatesessiontoken
-https://www.wix.com/velo/reference/wix-users/applysessiontoken
+- https://docs.github.com/en/developers/apps/authorizing-oauth-apps#web-application-flow
+- https://docs.github.com/en/rest/reference/users#list-email-addresses-for-the-authenticated-user
+- https://www.wix.com/velo/reference/wix-users-backend/generatesessiontoken
+- https://www.wix.com/velo/reference/wix-users/applysessiontoken
